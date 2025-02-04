@@ -1,13 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on DAPP for Cloud Storage as my MSc Project<br>
+🔭 Learning something new everyday.
 -Tech Entusiasts
--Always Learning 💪
+- Coding is fun💪
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-shaik1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%25230077B5.svg?logo=leetcode&color=white
-)](https://leetcode.com/u/AlfredDev12/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%25230077B5.svg?logo=leetcode&color=white)](https://leetcode.com/u/AlfredDev12/)
+[![CodeChef](https://img.shields.io/badge/codechef-%235B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/a_s_404)
+[![CodeForces](https://img.shields.io/badge/CodeForces-%231F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/CodeGod404)
+
 
 
 # 💻 Tech Stack:
